@@ -1,0 +1,7 @@
+/Users/nikhil/Documents/springChat/src/main/java/com/app/chat/ChatApplication.java
+/Users/nikhil/Documents/springChat/src/main/java/com/app/chat/controllers/UserController.java
+/Users/nikhil/Documents/springChat/src/main/java/com/app/chat/dto/UserRequest.java
+/Users/nikhil/Documents/springChat/src/main/java/com/app/chat/dto/UserResponse.java
+/Users/nikhil/Documents/springChat/src/main/java/com/app/chat/model/User.java
+/Users/nikhil/Documents/springChat/src/main/java/com/app/chat/repository/UserRepository.java
+/Users/nikhil/Documents/springChat/src/main/java/com/app/chat/service/UserService.java

@@ -1,0 +1,7 @@
+com/app/chat/repository/UserRepository.class
+com/app/chat/ChatApplication.class
+com/app/chat/model/User.class
+com/app/chat/dto/UserRequest.class
+com/app/chat/dto/UserResponse.class
+com/app/chat/service/UserService.class
+com/app/chat/controllers/UserController.class

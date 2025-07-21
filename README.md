@@ -1,2 +1,0 @@
-# springChat
-com.chat
